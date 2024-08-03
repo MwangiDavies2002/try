@@ -6,6 +6,7 @@ import Login from './Login';
 const LoginPages = () => {
   return (
     <div>
+    <h2>Hello World</h2>
     <Header
       heading='Login to your account'      
       paragraph="Don't have an account yet"
